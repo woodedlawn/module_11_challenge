@@ -15,7 +15,11 @@ The data set can be found in the [`Resources`](Resources/) folder:
 - python 3.7.10
 - jupyterlab 3.0.14
 - pandas 1.2.4
+- numpy 1.19.5
 - hvplot 0.7.3
+- pystan 2.19.1.1
+- fbprophet 0.7.1
+- holoviews 1.14.5
 
 ---
 
